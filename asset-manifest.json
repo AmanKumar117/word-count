@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AmanKumar117/word-count/static/css/main.5c975799.css",
-    "main.js": "/AmanKumar117/word-count/static/js/main.21033cfa.js",
-    "static/js/787.f2512186.chunk.js": "/AmanKumar117/word-count/static/js/787.f2512186.chunk.js",
-    "index.html": "/AmanKumar117/word-count/index.html",
-    "main.5c975799.css.map": "/AmanKumar117/word-count/static/css/main.5c975799.css.map",
-    "main.21033cfa.js.map": "/AmanKumar117/word-count/static/js/main.21033cfa.js.map",
-    "787.f2512186.chunk.js.map": "/AmanKumar117/word-count/static/js/787.f2512186.chunk.js.map"
+    "main.css": "/AmanKumar117.github.io/word-count/static/css/main.5c975799.css",
+    "main.js": "/AmanKumar117.github.io/word-count/static/js/main.d194eec1.js",
+    "static/js/787.f2512186.chunk.js": "/AmanKumar117.github.io/word-count/static/js/787.f2512186.chunk.js",
+    "index.html": "/AmanKumar117.github.io/word-count/index.html",
+    "main.5c975799.css.map": "/AmanKumar117.github.io/word-count/static/css/main.5c975799.css.map",
+    "main.d194eec1.js.map": "/AmanKumar117.github.io/word-count/static/js/main.d194eec1.js.map",
+    "787.f2512186.chunk.js.map": "/AmanKumar117.github.io/word-count/static/js/787.f2512186.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c975799.css",
-    "static/js/main.21033cfa.js"
+    "static/js/main.d194eec1.js"
   ]
 }
